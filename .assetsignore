@@ -1,0 +1,14 @@
+.git
+.gitignore
+.env
+.env.*
+.dev.vars
+.DS_Store
+README.md
+wrangler.jsonc
+package.json
+package-lock.json
+node_modules
+.wrangler
+.assetsignore
+.env.example
